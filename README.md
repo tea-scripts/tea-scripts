@@ -1,33 +1,38 @@
-Hi 👋 My name is [Oluwatimilehin](https://oluwatimilehin.dev/)
-===============================
+# Oluwatimilehin Akinnubi
 
-Full Stack Developer
-----------------------
+**Tech Lead | Senior Full-Stack Engineer**
 
-* 🌍  I'm based in Manila, Philippines
-* ✉️  You can contact me at [timmieprince@gmail.com](mailto:timmieprince@gmail.com)
-* 🧠  I'm currently learning Quality Assurance and Testing
-* ⭐  My Tech Stack - MERN
+I design and ship production web systems with an emphasis on clean architecture, performance, testability, and long-term maintainability.
 
-### Skills
+## Technical Profile
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
- <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
+- 5+ years building and scaling full-stack applications
+- Strong in API design, domain modeling, and service boundaries
+- Hands-on across frontend, backend, data, and delivery pipelines
+- Focused on reliability engineering through testing and operational discipline
 
-### Socials
+## Architecture & Engineering Focus
 
-<p align="left"> <a href="https://www.github.com/tea-scripts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tea__scripts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oluwatimilehin-akinnubi-847945205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tea__scripts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- Modular full-stack architecture with clear separation of concerns
+- Typed contracts across client/server boundaries (TypeScript-first)
+- REST API design, validation, error semantics, and backward compatibility
+- Performance optimization for React/Next.js rendering and bundle strategy
+- Backend reliability: idempotent workflows, defensive coding, and failure handling
+- Code quality systems: linting, formatting, test gates, and CI checks
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tea-scripts&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Stack
+
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `NestJS` `Express` `MongoDB` `Jest` `Docker` `CI/CD`
+`Tailwind CSS` `Redux` `Playwright` `Vitest` `PostgreSQL` `Redis` `GraphQL` `Nix` `Python`
+
+## Current Priorities
+
+- Raising test coverage and confidence across critical paths
+- Improving architecture consistency and developer experience
+- Mentoring engineers on system design and production-readiness
+
+## Connect
+
+- Portfolio: [oluwatimilehin.dev](https://oluwatimilehin.dev/)
+- Email: [timmieprince@gmail.com](mailto:timmieprince@gmail.com)
+- LinkedIn: [oluwatimilehin-akinnubi](https://www.linkedin.com/in/oluwatimilehin-akinnubi-847945205)
