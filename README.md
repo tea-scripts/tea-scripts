@@ -1,6 +1,6 @@
 # Oluwatimilehin Akinnubi
 
-**Tech Lead | Senior Full-Stack Engineer**
+**Software Engineer**
 
 I design and ship production web systems with an emphasis on clean architecture, performance, testability, and long-term maintainability.
 
